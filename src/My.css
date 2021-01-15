@@ -1,0 +1,21 @@
+.main-_input {
+  width: 50%;
+  height: auto;
+  margin: 20px auto;
+}
+
+.main-_input input {
+  text-align: center;
+  padding: 10px 6px;
+  width: 50%;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.search_logo{
+    margin-top: 50px;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+
